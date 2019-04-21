@@ -1,7 +1,7 @@
 # Call-center Sperrliste / blacklist by KTipp.ch
 # Re-engineered for PBX usage by trick77.com (See https://trick77.com/call-center-rufnummern-sperrliste-schweiz)
-# Numbers detected: 5579
-# Last update: Sun Apr 14 04:52:58 CEST 2019
+# Numbers detected: 5583
+# Last update: Sun Apr 21 04:34:58 CEST 2019
 0326662674;Firma SwA SwissAnnoncen GmbH
 044586434747;Firma unbekannt
 0328931054;Firma Callcenter unbekanntBemerkung redet gebrochen franzoesisch und will Wein verkaufen
@@ -406,6 +406,7 @@
 0615880061;Firma Callcenter unbekanntBemerkung Krankenkassen
 0021655611126;Firma Firma unbekannt
 0444000002;Firma Callcenter unbekannt
+0715670319;Firma Callcenter unbekanntBemerkung Krankenkassen
 0444000003;Firma Callcenter unbekannt
 0615880067;Firma Firma unbekanntBemerkung Krankenkassen
 0444000004;Firma Callcenter unbekannt
@@ -2509,6 +2510,7 @@
 0323230865;Firma Firma unbekannt
 0435000982;Firma unbekannt
 0435000983;Firma Callcenter unbekannt
+0625391629;Firma unbekanntBemerkung Krankenkasse
 001565937637;Firma unbekannt
 0715550279;Firma Versandgroup Holding AGSt GallenBemerkung Unter 0848 424 537 koennen Sie Ihre Nummer sperre...
 0715221250;Firma unbekanntBemerkung will Krankenkassenberatung machen
@@ -4363,6 +4365,7 @@
 0615880207;Firma unbekanntBemerkung Krankenkassen
 0566482596;Firma Profi Office
 0627455000;Firma Callcenter unbekannt
+0523393241;Firma unbekanntBemerkung Angeblich hat man Wein bestellt
 0435087347;Firma Firma unbekannt
 0628235270;Firma NSB
 0435087348;Firma Callcenter unbekannt
@@ -4607,6 +4610,7 @@
 0315449725;Firma unbekanntBemerkung Krankenkassen
 0014683182416;Firma unbekannt
 0615641000;Firma Maklerzentrum Schweiz AGBemerkung Verkauft Krankenkassen
+0325136312;Firma unbekannt
 00442037691767;Firma Firma unbekannt
 0039095522436;Firma unbekannt
 052453886474;Firma unbekannt
