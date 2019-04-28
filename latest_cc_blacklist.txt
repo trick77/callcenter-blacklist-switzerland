@@ -1,7 +1,7 @@
 # Call-center Sperrliste / blacklist by KTipp.ch
 # Re-engineered for PBX usage by trick77.com (See https://trick77.com/call-center-rufnummern-sperrliste-schweiz)
-# Numbers detected: 5583
-# Last update: Sun Apr 21 04:34:58 CEST 2019
+# Numbers detected: 5587
+# Last update: Sun Apr 28 04:57:01 CEST 2019
 0326662674;Firma SwA SwissAnnoncen GmbH
 044586434747;Firma unbekannt
 0328931054;Firma Callcenter unbekanntBemerkung redet gebrochen franzoesisch und will Wein verkaufen
@@ -1047,6 +1047,7 @@
 0445811616;Firma Firma unbekannt
 0445087215;Firma Callcenter unbekanntBemerkung Krankenkassen
 0812556534;Firma Callcenter unbekannt
+0615689772;Firma Callcenter  Mirabo AGBemerkung Angeblich hat man an einem Wettbewerb teilgenommen und gewon...
 0315551205;Firma Tamedia AG Bern
 00863281503299;Firma unbekannt
 0445081914;Firma angeblich Gesundheitsvorsorge ZuerichBemerkung Will Krankenkasse verkaufen
@@ -1397,6 +1398,7 @@
 0442152828;Firma Callcenter unbekanntBemerkung Meldet sich als Equity Fonds Zug
 004921143714880;Firma Callcenter unbekannt
 0318237593;Firma unbekannt
+0335332355;Firma unbekannt
 0217258908;Firma Firma unbekannt
 85230158100671;Firma unbekannt
 0413710567;Firma Callcenter unbekannt
@@ -1415,6 +1417,7 @@
 0625115489;Firma Callcenter unbekanntBemerkung Krankenkassen
 0435082033;Firma Callcenter unbekannt
 0329999999;Firma Firma unbekannt
+0415673154;Firma Callcenter unbekannt
 0319801191;Firma Callcenter unbekannt
 004441689018;Firma unbekannt
 0035266106160004;Firma unbekannt
@@ -1843,7 +1846,7 @@
 0213345777;Firma Callcenter unbekannt
 0315280905;Firma Callcenter unbekannt
 0315280904;Firma Callcenter unbekannt
-0435080238;Firma Callcenter unbekannt
+0435080238;Firma Callcenter  unbekannt
 0435080235;Firma Callcenter unbekannt
 0445867744;Firma Paypay AGBemerkung Ruft aufs Handy an und velangt Adresse Nicht angeben Es ist moeglich das...
 0315280908;Firma Callcenter unbekannt
@@ -4003,6 +4006,7 @@
 0447520017;Firma Callcenter unbekannt
 0447520015;Firma Callcenter unbekannt
 0025299387370;Firma unbekannt
+0615679987;Firma unbekannt
 0615880350;Firma Firma unbekannt
 0615584793;Firma Callcenter unbekannt
 0016265749231;Firma Firma unbekanntBemerkung englisch sprechend
