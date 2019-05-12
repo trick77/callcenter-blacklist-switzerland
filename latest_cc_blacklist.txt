@@ -1,7 +1,7 @@
 # Call-center Sperrliste / blacklist by KTipp.ch
 # Re-engineered for PBX usage by trick77.com (See https://trick77.com/call-center-rufnummern-sperrliste-schweiz)
-# Numbers detected: 5598
-# Last update: Sun May 05 04:39:56 CEST 2019
+# Numbers detected: 5602
+# Last update: Sun May 12 04:56:59 CEST 2019
 0326662674;Firma SwA SwissAnnoncen GmbH
 044586434747;Firma unbekannt
 0328931054;Firma Callcenter unbekanntBemerkung redet gebrochen franzoesisch und will Wein verkaufen
@@ -2023,6 +2023,7 @@
 0415554669;Firma Alnovis AGHorwBemerkung ruft vor allem fuer gemeinnuetzige Organisationen an
 003633549577;Firma unbekanntBemerkung Angeblich Microsoft
 90119369299;Firma unbekannt
+0587774300;Firma Callcenter unbekannt
 008807924756;Firma unbekannt
 07151215649;Firma unbekanntBemerkung Krankenkassen
 0715444125;Firma Firma unbekanntBemerkung Informationszentrale Bern
@@ -3867,6 +3868,7 @@
 004941312471188;Firma Sueddeutsche Klassenlotterie
 00445591678;Firma Firma unbekannt
 04458089;Firma Primacall AGZuerichBemerkung 100 Tage Swisscom Festnetz gebuehrenfrei werden angeboten Es w...
+0555112595;Firma Callcenter unbekannt
 004921136870305;Firma unbekannt
 01778643033;Firma unbekannt
 004060754560000016525;Firma unbekanntBemerkung Betr Microsoft man habe Computerprobleme
@@ -4674,6 +4676,7 @@
 00255901138310;Firma unbekannt
 0629234638;Firma Firma unbekannt
 0445522139;Firma Callcenter unbekanntBemerkung Krankenkassen
+06933398020279;Firma unbekannt
 0415043964;Firma unbekannt
 0033170442570;Firma Firma unbekannt
 001214;Firma Firma unbekanntBemerkung Anruf startet mit you have a Computer and also Internet
@@ -5317,6 +5320,7 @@
 002180511230;Firma unbekannt
 0319326181;Firma unbekannt
 0271834763;Firma Callcenter unbekanntBemerkung Wollen Wein verkaufen
+0435501696;Firma Callcenter unbekannt
 0445421411;Firma Callcenter unbekannt
 004917977844510;Firma unbekannt
 0445067203;Firma Swissmarketing GmbHBemerkung will Kredite oder Versicherungen aufschwatzen
