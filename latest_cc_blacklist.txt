@@ -1,7 +1,7 @@
 # Call-center Sperrliste / blacklist by KTipp.ch
 # Re-engineered for PBX usage by trick77.com (See https://trick77.com/call-center-rufnummern-sperrliste-schweiz)
-# Numbers detected: 5629
-# Last update: Sun May 19 04:40:02 CEST 2019
+# Numbers detected: 5636
+# Last update: Sun May 26 04:31:00 CEST 2019
 0326662674;Firma SwA SwissAnnoncen GmbH
 044586434747;Firma unbekannt
 0328931054;Firma Callcenter unbekanntBemerkung redet gebrochen franzoesisch und will Wein verkaufen
@@ -1382,7 +1382,7 @@
 003901731920032;Firma unbekannt
 004971195816171;Firma EBESBemerkung Betr Adresseintrag im Internet
 013053962066;Firma Firma unbekannt
-0445519852;Firma Callcenter unbekannt
+0445519852;Firma Callcenter unbekanntBemerkung Krankenkassen
 0315600499;Firma Callcenter unbekannt
 0625098831;Firma Callcenter unbekanntBemerkung Krankenkassen
 0585771267;Firma Callcenter unbekannt
@@ -1719,6 +1719,7 @@
 0054964176056;Firma Firma unbekanntBemerkung englisch sprechend Windows Support
 0444332131;Firma Firma unbekannt
 0718451652;Firma Callcenter unbekannt
+0416100957;Firma AriLeo GmbHBemerkung Man habe eine Gesundheitsmatraze im Wert von Fr 800- gewonnen
 038129830216;Firma Firma unbekannt
 0718451653;Firma Callcenter unbekanntBemerkung Sammeln scheinbar Geld fuer behinderte Kinder oder will natue...
 0213200995;Firma Callcenter unbekannt
@@ -1730,6 +1731,7 @@
 0315087073;Firma Firma unbekannt
 0265087034;Firma Callcenter unbekannt
 0315087074;Firma SVVPBemerkung geht um Krankenkasse
+040600243511;Firma unbekannt
 032214219001;Firma unbekannt
 00390159760511;Firma Firma unbekannt
 0041478888743;Firma unbekannt
@@ -2630,6 +2632,7 @@
 0312572374;Firma Firma unbekanntBemerkung Krankenkasse
 0715550287;Firma Versandgroup Holding AGSt GallenBemerkung Unter 0848 424 537 koennen Sie Ihre Nummer sperre...
 0715550286;Firma Versandgroup Holding AGSt GallenBemerkung Unter 0848 424 537 koennen Sie Ihre Nummer sperre...
+00496906586465;Firma unbekannt
 0715550285;Firma Versandgroup Holding AGSt GallenBemerkung Unter 0848 424 537 koennen Sie Ihre Nummer sperre...
 0035220202369;Firma Firma unbekannt
 0715550284;Firma Versandgroup Holding AGSt GallenBemerkung Unter 0848 424 537 koennen Sie Ihre Nummer sperre...
@@ -3278,6 +3281,7 @@
 0031610370600008278951;Firma unbekannt
 0522670729;Firma unbekanntBemerkung Angeblich Firma OeKW GmbH aus 8262 Ramsen Ruft Geschaeftskunden an und t...
 009999106451;Firma Firma unbekanntBemerkung Anruf endet mit Wort Goodbye
+0040748074490;Firma unbekannt
 0315551569;Firma Firma unbekannt
 0019547411379;Firma Callcenter unbekanntBemerkung Angebliche Microsoft-Supporter erzaehlen von Computer-Problem...
 0627464581;Firma Callcenter unbekannt
@@ -3392,6 +3396,7 @@
 0415081187;Firma Callcenter unbekannt
 0432436969;Firma Entellich
 004845018262;Firma Firma unbekanntBemerkung Angeblich aus Polen
+0225083479;Firma unbekannt
 0315551538;Firma Callcenter unbekannt
 0844244244;Firma Billag
 0625080808;Firma Callcenter unbekannt
@@ -4712,6 +4717,7 @@
 0215561899;Firma Firma 4wellBiel
 001219;Firma Firma unbekanntBemerkung Anruf startet mit you have a Computer and also Internet
 06127854312;Firma Callcenter unbekannt
+0445510174;Firma Callcenter unbekannt
 08100623140001023404;Firma unbekanntBemerkung Angeblich Microsoft man habe Computerprobleme
 0315113342;Firma Paypay AGBemerkung Ruft aufs Handy an und verlangt die Adresse Nicht angeben Es ist moeglic...
 0417600660;Firma Callcenter unbekannt
@@ -5305,6 +5311,7 @@
 00442038682564;Firma unbekannt
 020118591602;Firma unbekanntBemerkung Angeblich Bundesweite Energie Beratung  BEB Es geht um den Verkauf von S...
 0415112909;Firma Callcenter unbekannt
+0715670418;Firma Callcenter unbekannt
 004915145767180;Firma unbekannt
 0425296186;Firma Firma unbekannt
 00509072121000036312;Firma unbekannt
