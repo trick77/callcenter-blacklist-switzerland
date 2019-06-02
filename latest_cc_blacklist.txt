@@ -1,7 +1,7 @@
 # Call-center Sperrliste / blacklist by KTipp.ch
 # Re-engineered for PBX usage by trick77.com (See https://trick77.com/call-center-rufnummern-sperrliste-schweiz)
-# Numbers detected: 5636
-# Last update: Sun May 26 04:31:00 CEST 2019
+# Numbers detected: 5646
+# Last update: Sun Jun 02 04:31:00 CEST 2019
 0326662674;Firma SwA SwissAnnoncen GmbH
 044586434747;Firma unbekannt
 0328931054;Firma Callcenter unbekanntBemerkung redet gebrochen franzoesisch und will Wein verkaufen
@@ -140,6 +140,7 @@
 008100402210;Firma unbekannt
 0445081290;Firma SkylineDuebendorfBemerkung Mitarbeiter will Termin vereinbaren um zu erklaeren wie die Prae...
 0021691219180;Firma unbekannt
+00210221822337;Firma unbekannt
 0445081298;Firma Krankenkassen-InfocenterDuebendorfBemerkung Inhaberin der Nummer ist die Firma Netstream in...
 015150316587;Firma unbekannt
 0612438850;Firma Callcenter unbekanntBemerkung Anrufer behauptet man habe an einem Wettbewerb teilgenommen u...
@@ -840,6 +841,7 @@
 0315280598;Firma Callcenter unbekannt
 00390557188400;Firma Firma unbekannt
 00390557188402;Firma San Lorenzo
+005415223694;Firma unbekannt
 0217025647;Firma Callcenter unbekannt
 0227100638;Firma Callcenter unbekannt
 0185448502;Firma Firma unbekannt
@@ -896,6 +898,7 @@
 017432010101;Firma unbekannt
 004930617410;Firma Callcenter unbekanntBemerkung Angeblich Umfrage aus Deutschland von Radio DRS welche Sender...
 0444066736;Firma Firma unbekannt
+00407934172;Firma unbekannt
 0713148407;Firma Firma unbekanntBemerkung Krankenkasse
 0323725643;Firma Callcenter unbekannt
 0713148401;Firma Firma unbekannt
@@ -1010,6 +1013,7 @@
 0445159415;Firma Firma unbekannt
 0435080857;Firma Firma unbekanntBemerkung Leser berichten sie sollten dem Callcenter 10 Franken pro Monat be...
 0715087461;Firma Firma unbekanntBemerkung Schweizer Budgetoptimierung
+00221837499;Firma unbekannt
 0445087316;Firma Callcenter unbekannt
 0415111845;Firma Callcenter unbekanntBemerkung Man koenne Euromillionen einen Monat gratis mitspielen
 00421257508813;Firma Firma unbekannt
@@ -1363,6 +1367,7 @@
 08217948903444;Firma unbekannt
 0227430143;Firma unbekanntBemerkung Missbraucht die Nummer von Bigler Kanga Odile Werbeanruf in englischer S...
 052690878;Firma Firma unbekannt
+0307261131;Firma unbekannt
 0445002341;Firma Call Center
 41445087170;Firma Callcenter unbekannt
 0012023633148;Firma Firma unbekannt
@@ -1697,6 +1702,7 @@
 0315087060;Firma Firma unbekanntBemerkung Will Krankenkassenangebote vergleichen
 0315087061;Firma Callcenter unbekanntBemerkung Will Krankenkassenangebote vergleichen
 0715112272;Firma Livita AGBemerkung verkauft unter anderem Bio Colostrum
+0042236583000;Firma unbekannt
 03119922;Firma Firma unbekannt
 0404440923;Firma unbekanntBemerkung Gewinnversprechen Auto
 0315087065;Firma Callcenter unbekannt
@@ -2494,6 +2500,7 @@
 002153456789;Firma Firma unbekanntBemerkung Fragt ob man englisch spricht man habe anscheinend Windwos Problem...
 0049413150870047;Firma Firma unbekannt
 0445087004;Firma Firma unbekannt
+002018;Firma unbekanntBemerkung Angeblich Microsoft
 0715083223;Firma Callcenter unbekanntBemerkung Will Krankenkassen-Policen verkaufen Gibt sich als Informatio...
 0037744729193;Firma Firma unbekannt
 0445087003;Firma InformationsZentraleZuerichBemerkung geht um Krankenkassen
@@ -3587,6 +3594,7 @@
 00390104211602;Firma Firma unbekanntBemerkung fragt nach Pasta
 0445392189;
 0021725981982;Firma unbekannt
+030896778627;Firma unbekannt
 0615083184;Firma unbekanntBemerkung Nennt sich die Organisation SBO - Schweizer Budget-Optimierung Eidgenoes...
 0442009631;Firma Schw SpendenhilfsdienstZuerich
 0615083182;Firma Firma unbekannt
@@ -4132,6 +4140,7 @@
 0448247710;Firma Callcenter unbekannt
 004451268987;Firma Callcenter unbekannt
 0315601536;Firma cosma dialog ag3014 BernStauffacherstrasse 62
+00511632994;Firma unbekannt
 0445003213;Firma unbekannt
 00919491025;Firma Firma unbekannt
 0612701040;Firma Firma unbekanntBemerkung Arbeiten mit der Swiss Print Group AG zusammen und wollen Toner zu...
@@ -4265,6 +4274,7 @@
 0587177756;Firma Firma unbekannt
 0320235717;Firma unbekannt
 0444046373;Firma Contact Center Tamedia
+07112112233;Firma unbekanntBemerkung Hat sich als Staatliche Vollzugsbehoerde Stuttgart vorgestellt Sprachcom...
 0315520250;Firma Callcenter unbekannt
 004916097614386;Firma unbekannt
 0525880381;Firma Callcenter unbekannt
