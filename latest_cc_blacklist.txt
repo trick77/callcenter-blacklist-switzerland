@@ -1,7 +1,7 @@
 # Call-center Sperrliste / blacklist by KTipp.ch
 # Re-engineered for PBX usage by trick77.com (See https://trick77.com/call-center-rufnummern-sperrliste-schweiz)
-# Numbers detected: 5715
-# Last update: Sun Jun 23 04:32:00 CEST 2019
+# Numbers detected: 5745
+# Last update: Sun Jun 30 04:50:02 CEST 2019
 0326662674;Firma SwA SwissAnnoncen GmbH
 044586434747;Firma unbekannt
 0328931054;Firma Callcenter unbekanntBemerkung redet gebrochen franzoesisch und will Wein verkaufen
@@ -128,6 +128,7 @@
 044586434764;Firma unbekannt
 0413025896;Firma Callcenter unbekanntBemerkung Weinbestellung
 0017675045801;Firma unbekannt
+0445519624;Firma Callcenter unbekannt
 003230418460001246;Firma unbekanntBemerkung Betr PC Probleme
 00265087026;Firma Callcenter aus Malawi
 0049154885429752;Firma Firma unbekannt
@@ -290,6 +291,7 @@
 0715112008;Firma Callcenter unbekanntBemerkung Man habe eine Matratze von Rhombus GmbH gewonnen Termin fuer ...
 00442072830142;Firma unbekannt
 009115205999517;Firma unbekannt
+0044123;Firma unbekannt
 0315280611;Firma Firma unbekanntBemerkung Meldet sich als Verbraucherzentrale und will Termin fuer Krankenka...
 0265102144;Firma Callcenter unbekannt
 0049282291560;Firma Firma unbekanntBemerkung Melden sich als Branchenverzeichnis
@@ -371,6 +373,7 @@
 0622075671;Firma Weltbild Verlag GmbHOlten
 030311648327;Firma unbekannt
 18019013112;Firma Firma unbekannt
+0432075138;Firma unbekannt
 0084259868703;Firma Firma unbekanntBemerkung Angeblich PC Probleme
 0044155413052;Firma Firma unbekannt
 0278931054;Firma Firma unbekannt
@@ -788,6 +791,7 @@
 00437200021964;Firma unbekannt
 0555880065;Firma Callcenter unbekannt
 008953716764;Firma unbekannt
+0323239940;Firma unbekannt
 0445857035;Firma Callcenter unbekannt
 0225182691;Firma Callcenter unbekannt
 0222430117;Firma unbekanntBemerkung Angeblich Microsoft man habe Computerprobleme
@@ -861,6 +865,7 @@
 0014373701801;Firma unbekannt
 00805031042000091022;Firma unbekannt
 0223251214;Firma Firma unbekannt
+0315207021;Firma Callcenter unbekannt
 001300;Firma Firma unbekanntBemerkung Anruf startet mit you have a Computer and also Internet
 0315207020;Firma Callcenter unbekannt
 0216532671;Firma Callcenter unbekannt
@@ -1062,6 +1067,7 @@
 0717290002848931;Firma unbekannt
 0584040462;Firma unbekannt
 0415581835;Firma Firma unbekannt
+04036522179;Firma unbekannt
 004420235176;Firma Firma unbekanntBemerkung Englische Anfrage
 0906005003;Firma Firma unbekannt
 0445004159;Firma Firma unbekanntBemerkung Es geht um Krankenkassen
@@ -1151,6 +1157,7 @@
 0445591674;Firma Tages-AnzeigerBemerkung Ruft vierteljaehrlich an und versucht ein Abo oder Probeabo des Tag...
 0435082533;Firma Callcenter unbekanntBemerkung Krankenkasse
 041415087010;Firma Firma unbekannt
+0715031841;Firma Callcenter unbekannt
 023021699487;Firma unbekannt
 0627521421;Firma Firma unbekanntBemerkung Angeblich Microsoft
 00244931833340;Firma Firma unbekanntBemerkung Anruf aus Angola
@@ -1350,6 +1357,7 @@
 0615087073;Firma Callcenter unbekanntBemerkung legt auf bevor man abnehmen kann Nicht zurueckrufen
 0615560328;Firma unbekanntBemerkung Angeblich Microsoft
 0449259908;Firma Firma unbekannt
+0215017516;Firma Callcenter unbekannt
 004915166247677;Firma unbekannt
 0716822806;Firma Callcenter unbekannt
 0245103592;Firma Callcenter unbekanntBemerkung Man habe an einer Umfrage teilgenommen und wurde dadurch fuer...
@@ -1382,6 +1390,7 @@
 0615087091;Firma Telefonmarketing fuer Krankenkassen
 0229430116;Firma Firma unbekanntBemerkung Betreffend Computer Probleme Microsoft
 0041901000069;Firma Firma unbekannt
+0313331385;Firma Callcenter unbekannt
 0519100002848931;Firma unbekannt
 0345115005;Firma Callcenter unbekannt
 08217948903444;Firma unbekannt
@@ -1639,6 +1648,7 @@
 0265087006;Firma Callcenter unbekannt
 0265087007;Firma Callcenter unbekannt
 0315087029;Firma Callcenter unbekannt
+00447739189763;Firma unbekannt
 0062729472948;Firma unbekanntBemerkung Angeblich Microsoft
 0033145412360;Firma Firma unbekannt
 0627493772;Firma Lux Schweiz AG
@@ -1967,6 +1977,7 @@
 0435507510;Firma Firma unbekannt
 0445117471;Firma Callcenter unbekannt
 0324589610;Firma Firma unbekannt
+0625115550;Firma unbekannt
 0049232314708;Firma unbekannt
 0435083311;Firma Callcenter unbekanntBemerkung Ruft angeblich an im Namen des Schweizerischen Datenschutzes ...
 0445601880;Firma Schweizerischer Spendenhilfsdienst AG
@@ -2229,6 +2240,7 @@
 0434975600;Firma Firma unbekannt
 0217243950;Firma Firma unbekannt
 04812167583;Firma unbekannt
+00441247870245;Firma unbekanntBemerkung Angeblich Microsoft man habe PC Probleme
 0445594145;Firma Firma unbekannt
 00463457801098;Firma unbekanntBemerkung Gibt sich als Microsoft-Support aus
 00493070719030;Firma Firma unbekannt
@@ -2316,6 +2328,7 @@
 0615880562;Firma Callcenter unbekanntBemerkung Krankenkassen
 004930322951440;Firma Firma unbekanntBemerkung Niemand meldet sich
 0615807056;Firma unbekanntBemerkung Krankenkassen
+0033452860322;Firma unbekannt
 0918721430;Firma unbekannt
 0435086385;Firma unbekannt
 01743210136;Firma unbekannt
@@ -2449,6 +2462,7 @@
 0445672861;Firma callExpert GmbHBemerkung betr Schweizer Familie
 08955054111;Firma Callcenter unbekannt
 0273274356;Firma Firma unbekannt
+00447770280411;Firma unbekannt
 0445672869;Firma callExpert AG
 0555880204;Firma Firma unbekannt
 0445917686;Firma Callcenter unbekannt
@@ -2657,6 +2671,7 @@
 001285976318;Firma Firma unbekannt
 007607339957;Firma Firma unbekannt
 00390114782001;Firma San LorenzoBemerkung Verkauft italienische Lebensmittel in der Schweiz Pasta macht auch agr...
+00447979108368;Firma unbekannt
 0555087264;Firma Callcenter unbekannt
 00428623847241;Firma unbekanntBemerkung Microsoft
 0555087266;Firma unbekannt
@@ -3018,6 +3033,7 @@
 0265880086;Firma Callcenter unbekanntBemerkung Krankenkassen
 0265880085;Firma Callcenter unbekanntBemerkung SBO Schweizer Budget Optimierer AG
 0265880084;Firma unbekanntBemerkung Ruft wegen Krankenkasse an
+0445092386;Firma unbekannt
 0445860127;Firma Callcenter unbekanntBemerkung Krankenkassen
 0265880083;Firma Callcenter unbekannt
 0800553377;Firma CAT Medien AGBaden
@@ -3289,6 +3305,7 @@
 00441279413812;Firma unbekannt
 00390119321026;Firma unbekannt
 0427275313;Firma Firma unbekannt
+0615115420;Firma Callcenter unbekannt
 00447979664723;Firma unbekannt
 0715082037;Firma Callcenter unbekanntBemerkung Abo-Verlaengerung fuer KeyMail
 0912260346;Firma Firma unbekanntBemerkung Krankenkassen
@@ -3461,7 +3478,7 @@
 0445520175;Firma Callcenter unbekanntBemerkung Krankenkasse
 0445225247;Firma Callcenter unbekannt
 0625880303;Firma Callcenter unbekannt
-0315041829;Firma unbekanntBemerkung haengt nach 2x Laeuten auf
+0315041829;Firma Callcenter unbekanntBemerkung haengt nach 2x Laeuten auf
 0174323014;Firma unbekannt
 0444448421;Firma Telag Company AGZuerich
 0017772847250;Firma Firma unbekannt
@@ -3645,6 +3662,7 @@
 030896778627;Firma unbekannt
 0615083184;Firma unbekanntBemerkung Nennt sich die Organisation SBO - Schweizer Budget-Optimierung Eidgenoes...
 0442009631;Firma Schw SpendenhilfsdienstZuerich
+0313330428;Firma Callcenter unbekannt
 0615083182;Firma Firma unbekannt
 0715087048;Firma SVZ St GallenBemerkung Angeblich sei man zum Thema Krankenkassen  Krankenversicherung noch ...
 0049180102066605412;Firma Netzquadrat GmbH
@@ -3699,6 +3717,7 @@
 0448247873;Firma Callcenter unbekannt
 00390565850686;Firma unbekannt
 0033434080950;Firma Firma unbekannt
+0445519953;Firma Callcenter unbekannt
 00213345777;Firma Firma unbekannt
 0622491299;Firma Firma unbekanntBemerkung geht um Krankenkassen
 0445519945;Firma Callcenter unbekannt
@@ -4055,6 +4074,7 @@
 023654785;Firma Firma unbekannt
 0442779085;Firma Callcenter unbekannt
 00804063838000095052;Firma unbekannt
+05117730104;Firma unbekannt
 0221430184;Firma Firma unbekannt
 0225520022;Firma Callcenter unbekannt
 004915206996253;Firma unbekannt
@@ -4069,6 +4089,7 @@
 0445005017;Firma Callcenter unbekanntBemerkung Krankenkasse
 0044146140430;Firma unbekannt
 0445081347;Firma Firma unbekanntBemerkung Angeblicher Name Krankenkassen Infozentrum
+07113662541;Firma unbekannt
 004420747384692;Firma unbekannt
 0254665140;Firma Firma unbekannt
 0251245871;Firma Callcenter unbekanntBemerkung Wenn man sich meldet heisst es Goodbye
@@ -4585,6 +4606,7 @@
 0615083020;Firma Firma unbekannt
 00804072132000091022;Firma unbekannt
 0800800993;Firma Tempobrain AGBemerkung Callcenter im Auftrag von TCS
+0435880042;Firma unbekannt
 0014122016;Firma Firma unbekannt
 0800800991;Firma Tempobrain AGBemerkung Callcenter im Auftrag von TCS
 0225449703;Firma Callcenter unbekannt
@@ -4642,13 +4664,17 @@
 0419222462;Firma Wirtschaftsdienst Zug Wirtschaftspraxis GesundheitszentraleBemerkung will Wechsel zur Visan...
 0449059295;Firma Firma unbekannt
 0443556301;Firma Callcenter unbekanntBemerkung Avocis Telag
+0445207553;Firma unbekannt
 003240303230001246384;Firma unbekanntBemerkung Angeblich Microsoft
 0447566989;Firma Beratercenter
 0315280403;Firma Callcenter unbekannt
 0447566988;Firma Beratercenter
 0912280100;Firma Krankenkasse
+0445207534;Firma Callcenter unbekannt
+0445207533;Firma unbekannt
 0016468786601;Firma unbekannt
 0627455010;Firma Callcenter unbekannt
+0445207536;Firma unbekannt
 00493419288030;Firma unbekanntBemerkung Gewinnspiel Auszahlung nicht ohne Vorleistung
 0022455971605;Firma unbekannt
 0445591608;Firma Callcenter
@@ -5180,6 +5206,7 @@
 0527211199;Firma Firma unbekanntBemerkung Anrufe und Nachrichten von einem publifon ausgehend
 0449057600;Firma Professional CallUster
 0542197346;Firma Callcenter unbekanntBemerkung Angeblich Microsoft
+0435501702;Firma Callcenter unbekannt
 0221590603;Firma Firma unbekannt
 0021690495658;Firma unbekannt
 004923094699988;Firma Firma unbekanntBemerkung Angeblich Probleme mit dem Computer Windows
@@ -5219,6 +5246,7 @@
 0325115557;Firma Firam unbekannt
 004934713644407;Firma Firma unbekannt
 002158471554;Firma Firma unbekannt
+0444937265;Firma unbekannt
 00225910789;Firma Firma unbekannt
 0815081893;Firma Callcenter unbekannt
 0319323154;Firma unbekannt
@@ -5296,6 +5324,7 @@
 0445083185;Firma Callcenter unbekannt
 00436889270819;Firma Callcenter unbekannt
 0445083186;Firma Firma unbekanntBemerkung Krankenkassen
+0445087541;Firma Callcenter unbekannt
 0445083187;Firma Callcenter unbekannt
 0445007351;Firma unbekanntBemerkung Angeblicher Krankenkassen-Wechsel
 0325619872;Firma Callcenter unbekannt
@@ -5408,6 +5437,7 @@
 001617315810;Firma unbekannt
 003160932500008278951;Firma unbekannt
 0413292232;Firma MDS Media Data Services AGKriensBemerkung wwwmds-mediach
+05318779416;Firma unbekannt
 0435500370;Firma Callcenter unbekanntBemerkung Krankenkassen
 0445766750;Firma KVGdirektBemerkung Gehoert zum Imperium von Martin Zollinger Anrufer wollen einen Beratungs...
 004978112840791;Firma Casa RealeBemerkung Wollen Wein verkaufen
