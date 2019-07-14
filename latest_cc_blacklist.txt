@@ -1,7 +1,7 @@
 # Call-center Sperrliste / blacklist by KTipp.ch
 # Re-engineered for PBX usage by trick77.com (See https://trick77.com/call-center-rufnummern-sperrliste-schweiz)
-# Numbers detected: 5773
-# Last update: Sun Jul 07 04:29:05 CEST 2019
+# Numbers detected: 5777
+# Last update: Sun Jul 14 04:42:02 CEST 2019
 0326662674;Firma SwA SwissAnnoncen GmbH
 044586434747;Firma unbekannt
 0328931054;Firma Callcenter unbekanntBemerkung redet gebrochen franzoesisch und will Wein verkaufen
@@ -54,6 +54,7 @@
 0019099240710;Firma Firma unbekanntBemerkung Gab sich als Mitarbeiter von Microsoft aus es gaebe Probleme mit W...
 00390823896792;Firma unbekannt
 0442389567;Firma Callcenter unbekanntBemerkung will zu Krankenkasse beraten
+007191311175;Firma unbekannt
 05113673435;Firma unbekanntBemerkung Es geht um einen neuen Stromanbieter
 003170806510000907038;Firma unbekannt
 0415743342;Firma Callcenter unbekannt
@@ -538,6 +539,7 @@
 0415880613;Firma Callcenter unbekanntBemerkung Man habeein Erotikkanal abonniert
 0445077123;Firma Callcenter unbekanntBemerkung Krankenkassen
 0415880614;Firma Callcenter unbekannt
+0071112447364;Firma unbekannt
 0236891451;Firma Callcenter unbekannt
 0615880015;Firma Firma unbekanntBemerkung Krankenkassen
 05855909663;Firma Firma unbekanntBemerkung Krankenkassen
@@ -698,6 +700,7 @@
 0718453556;Firma Callcenter unbekannt
 0315209809;Firma Callcenter unbekannt
 0718453557;Firma Callcenter unbekannt
+0315209802;Firma Callcenter unbekannt
 0315209803;Firma Callcenter unbekannt
 0371674900;Firma unbekannt
 009292322808;Firma Firma unbekannt
@@ -1100,6 +1103,7 @@
 004060640090000016525;Firma unbekanntBemerkung Betr Microsoft man habe Computerprobleme
 004401630118441;Firma unbekannt
 0584040473;Firma Firma unbekannt
+0435501489;Firma Callcenter unbekannt
 004915145710061;Firma unbekannt
 0417800092;Firma Callcenter unbekannt
 0223430133;Firma unbekanntBemerkung Missbraucht die Nummer der Aerztevereinigung in Carouge
